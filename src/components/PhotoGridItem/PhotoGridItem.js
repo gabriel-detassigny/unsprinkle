@@ -54,6 +54,7 @@ const Tags = styled.ul`
   overflow: hidden;
   display: block;
   text-overflow: ellipsis;
+  height: 20px;
 `;
 
 const Tag = styled.li`
